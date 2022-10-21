@@ -1,0 +1,138 @@
+{
+    "users": [
+      {
+        "title": "All Things Science",
+        "authorID": "auth id",
+        "category": "Science",
+        "imageUrl": "https://www.sciencenewsforstudents.org/wp-content/uploads/2020/09/1030_SS_Chemical.jpg",
+        "summary": "This is a small description of my science blog",
+        "Status of Blog ": "In Progress",
+        "blognew": "It is safe to say there will never be such thing as zero polluted air. Pollution is the introduction of contaminants into the natural environment that cause adverse change. Any substances in water, soil, or air that degrade the natural quality of the environment, offend the senses of sight, taste, or smell, or cause a health hazard. The usefulness of the natural resource is usually impaired by the presence of pollutants and contaminants. A pollutant is a waste product that pollutes the environment, such as the air, water, or soil. A pollutant's severity is determined by three factors: its chemical type, concentration, extent of damage, and duration. One of the most significant natural sources of pollution are volcanoes, which during eruptions release large quantities of harmful gases into the atmosphere. Volcanic gases include carbon dioxide, which can be fatal in large concentrations and contributes to climate change, hydrogen halides which can cause acid rain, sulfur dioxides, which are harmful to animals and damage the ozone layer, and hydrogen sulfides, which are capable of killing humans at concentrations of less than 1 part per thousand. Wildfires, which can be caused naturally by lightning strikes, are also a significant source of air pollution. Wildfire smoke contains significant quantities of both carbon dioxide and carbon monoxide, which can cause suffocation. Large quantities of fine particulates are found within wildfire smoke as well, which pose a health risk to animals.",
+        "id": 1
+      },
+      {
+        "title": "Changing Habits",
+        "authorID": "auth id",
+        "category": "Fiction",
+        "imageUrl": "https://th.bing.com/th/id/R.bea471cdfc8a8c65ead2786330d0d420?rik=CEFU%2fwN2UnycaA&riu=http%3a%2f%2ftrpphysio.com.au%2fcms%2fwp-content%2fuploads%2f2016%2f03%2fDollarphotoclub_96599625-e1457404655525.jpg&ehk=z%2bJkl23qGKT%2bmYA7%2bdvpwQMWt2AtRcCbLgX8SuNGqDk%3d&risl=&pid=ImgRaw&r=0",
+        "summary": "This is a small description of my healthy food blog",
+        "Status of Blog ": "In Progress",
+        "id": 2
+      },
+      {
+        "title": "Next Wave of Technology",
+        "authorID": "auth id",
+        "category": "Technology",
+        "imageUrl": "https://www.connectria.com/wp-content/uploads/2019/06/cloud_technology_trends.jpeg",
+        "summary": "This is a small description of my techblog",
+        "Status of Blog ": "In Progress",
+        "id": 3
+      },
+      {
+        "title": "Better Living",
+        "authorID": "auth id",
+        "category": "Fiction",
+        "imageUrl": "https://www.goatsontheroad.com/wp-content/uploads/2020/03/Nepal-Travel-Guide.jpg",
+        "summary": "This is a small description of my travel blog",
+        "Status of Blog ": "In Progress",
+        "id": 4
+      },
+      {
+        "title": "Cricket",
+        "authorID": "auth id",
+        "category": "Sports",
+        "imageUrl": "https://www.cricket.com.au/-/media/News/2017/12/18Aus-cele1.ashx",
+        "summary": "This is a small description of my sports blog",
+        "Status of Blog ": "In Progress",
+        "id": 5
+      },
+      {
+        "title": "Fit Forward",
+        "authorID": "auth id",
+        "category": "Sports",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.txVdKxqPCWwjBXeJBvNDIQHaEK?pid=ImgDet&w=2000&h=1125&rs=1",
+        "summary": "This is a small description of my fitness blog",
+        "Status of Blog ": "In Progress",
+        "id": 6
+      },
+      {
+        "title": "Techno Babble",
+        "authorID": "auth id",
+        "category": "Technology",
+        "imageUrl": "https://www.deaf-interpreter.com/wp-content/uploads/2016/02/digital_diagram_business_and_technology_by_prophotostock-d711fj6.jpg",
+        "summary": "This is a small description of my technology blog",
+        "Status of Blog ": "In Progress",
+        "id": 7
+      },
+      {
+        "title": "Bit Tech",
+        "authorID": "auth id",
+        "category": "Technology",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0026/7132/articles/cool-technology-2016-in-tech_2048x2048.jpg?v=1453993699",
+        "summary": "This is a small description of my technology blog",
+        "Status of Blog ": "In Progress",
+        "id": 8
+      },
+      {
+        "title": "Hockey",
+        "authorID": "auth id",
+        "category": "Sports",
+        "imageUrl": "https://www.towcestrians.co.uk/wp-content/uploads/2019/10/Hockey-Header-Image.jpg",
+        "summary": "This is a small description of my fitness blog",
+        "Status of Blog ": "In Progress",
+        "id": 9
+      }
+    ],
+    "blogs": [
+      {
+        "id": 1,
+        "blognew": "It is safe to say there will never be such thing as zero polluted air. Pollution is the introduction of contaminants into the natural environment that cause adverse change. Any substances in water, soil, or air that degrade the natural quality of the environment, offend the senses of sight, taste, or smell, or cause a health hazard. The usefulness of the natural resource is usually impaired by the presence of pollutants and contaminants. A pollutant is a waste product that pollutes the environment, such as the air, water, or soil. A pollutant's severity is determined by three factors: its chemical type, concentration, extent of damage, and duration. One of the most significant natural sources of pollution are volcanoes, which during eruptions release large quantities of harmful gases into the atmosphere. Volcanic gases include carbon dioxide, which can be fatal in large concentrations and contributes to climate change, hydrogen halides which can cause acid rain, sulfur dioxides, which are harmful to animals and damage the ozone layer, and hydrogen sulfides, which are capable of killing humans at concentrations of less than 1 part per thousand. Wildfires, which can be caused naturally by lightning strikes, are also a significant source of air pollution. Wildfire smoke contains significant quantities of both carbon dioxide and carbon monoxide, which can cause suffocation. Large quantities of fine particulates are found within wildfire smoke as well, which pose a health risk to animals."
+      },
+      {
+        "blog": "5 food habits that might be dangerous for your health",
+        "id": 2
+      },
+      {
+        "blog": "The Metaverse and Disney",
+        "id": 3
+      },
+      {
+        "title": "Hockey",
+        "blog": "Choosing the right skills coach can be a difficult task. In today’s digital world, everyone seems to be selling you the magic bullet to make you or your child a better hockey player. Web page after web page throws volumes of information at you, stating why their program is the best, and why others aren’t. Science, pseudo-science and lots of buzzwords and concepts are thrown around. Pretty graphics, testimonials, Instagram videos and commanding language all try to sway you to their product and away from others. So how do you decide where to spend your hard-earned money? After all, you’re investing in your players future, whatever their goals might be. My point, however, is that we don’t often take a step back and to look at the larger impact a coach or situation has on a child. Maybe your kid is already the fastest on his team, and you think he would be better suited to spend time on a skills coach instead of their skating coach. Yet, your kid is continuing to get faster, stronger and their overall game is improving with the confidence and support they are getting from that coach. Maybe you feel like your kid could use a bit more focused help, but they love their “one-stop-skills-shop” coach who does a little of everything, is engaging and you’ve seen a change in his or her passion for the game that you want to keep. Even that stoic, drill-sergeant that runs complex drills might be just what your kid needs to feel he or she has that mental toughness to execute in games. If this was just a bit too touchy-feely, that’s ok too. Like I said, everyone is different and every kid is different. We all have seen what the past couple of years have shown us in various degrees of coping and adapting to an uncertain world. The bottom line is, you know your child best. Don’t let fancy advertising, negative comparisons or egos get in the way of making the best decision for your young hockey player, whatever that may be. ",
+        "imageUrl": "https://www.towcestrians.co.uk/wp-content/uploads/2019/10/Hockey-Header-Image.jpg",
+        "id": 9
+      },
+      {
+        "title": "Fiction Magnate",
+        "blog": "If this was just a bit too touchy-feely, that’s ok too. Like I said, everyone is different and every kid is different. We all have seen what the past couple of years have shown us in various degrees of coping and adapting to an uncertain world. The bottom line is, you know your child best. Don’t let fancy advertising, negative comparisons or egos get in the way of making the best decision for your young hockey player, whatever that may be. She does not like talking to her relatives. And she does not like the smell of hamburgers. When Penny arrives, she sees lots of familiar faces. It is July and Uncle Vernon is wearing a sweater. Uncle Vernon is always cold. It’s very mysterious. She sees her cousin Polly. Polly has six children. The youngest one screams. Then the oldest one screams. Polly’s children are always screaming. She sees many of her other cousins in the field playing softball. They play a softball game every year, and it always ends in a big argument. Penny wonders, again, why they never solve it. Then Penny sees an incredibly handsome man. She stares at him. He catches her staring. He smiles and walks over to her. Penny is very nervous. She is nervous because a handsome man is walking up to her and she is nervous because this handsome man might be her cousin. The man sticks out his hand and says hi. Penny says. 'Are we related?' Paul laughs. 'No, we are not related. I am Vernon's nurse. He is sick and needs to keep me close by. But he did not want to miss this barbeque!' 'Oh, thank goodness,' Penny says and then blushes. Penny always blushes when she is nervous, embarrassed, or hot, and right now she is all three. Handsome Paul laughs and says,'Would you like to go get a hamburger with me? They smell delicious.' Penny smiles, 'Sure. I love hamburgers!'",
+        "imageUrl": "https://th.bing.com/th/id/R.6a8a0dd97d723dc3778a89d4dc06d987?rik=Dd1z2OQzT1f7nw&riu=http%3a%2f%2ffictionpictures.com%2fwp-content%2fuploads%2f2016%2f08%2fHinterlands-16x9.jpg&ehk=MlVVnSTxJStVfTuYH8ujQ0jwGQ69RspVVYdk0r2GPqc%3d&risl=&pid=ImgRaw&r=0",
+        "id": 10
+      },
+      {
+        "blog": "<p>new blog</p>",
+        "id": 11
+      },
+      {
+        "blog": "<p>theblogtat</p>",
+        "id": 12
+      }
+    ],
+    "category": [
+      "Technology",
+      "Fiction",
+      "Science",
+      "Sports"
+    ],
+    "MyBlogs": [
+      {
+        "title": "Fiction Magnate",
+        "authorID": "auth id",
+        "category": "Fiction",
+        "imageUrl": "https://th.bing.com/th/id/R.6a8a0dd97d723dc3778a89d4dc06d987?rik=Dd1z2OQzT1f7nw&riu=http%3a%2f%2ffictionpictures.com%2fwp-content%2fuploads%2f2016%2f08%2fHinterlands-16x9.jpg&ehk=MlVVnSTxJStVfTuYH8ujQ0jwGQ69RspVVYdk0r2GPqc%3d&risl=&pid=ImgRaw&r=0",
+        "summary": "This is a small description of my story blog",
+        "Status of Blog ": "In Progress",
+        "id": 10
+      }
+    ]
+  }
+  

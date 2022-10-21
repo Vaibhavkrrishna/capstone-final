@@ -1,0 +1,14 @@
+@import url(https://fonts.google.com/specimen/Roboto);
+.form-holder{
+    box-shadow:2px 0px 15px 0px rgba(57, 50, 50, 0.637);
+    width:400px;
+    margin:100px auto;
+    padding:30px;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(20,240,190,1) 0%, rgba(0,212,255,1) 100%);; 
+    border-radius:20px;
+    color:rgba(29, 19, 19, 0.66);
+    font-family: 'Roboto', sans-serif;
+
+
+    /* box-sizing:border-box; */
+}

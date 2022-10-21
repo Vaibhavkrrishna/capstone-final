@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+.central-box{
+    box-shadow: 2px 0px 15px 0px rgba(184,184,184,1);
+    width: 440px;
+    margin-left:500px;
+    
+    /* padding: 30px; */
+  position:sticky;
+    font-family: 'Rubik', sans-serif;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(20,240,190,1) 0%, rgba(0,212,255,1) 100%);
+
+/* }
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,20,240,1) 0%, rgba(0,212,255,1) 100%); */
+
+}
+.font{
+    font-family: 'Rubik', sans-serif;
+
+}
+
+input,button,label,select{
+ 
+    display: block;
+    width: 100%;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+input,select{
+    height: 24px;
+    border: none
+}
+
+.grey-border{
+    border: 1px solid grey;
+}
+
+.red-border{
+    border: 1px solid red;
+}
+
+label{
+    font-size: .7rem;
+    margin-top: 1px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+.error{
+    color: red;
+    font-size: .8rem;
+}
+button:hover{
+    background: rgb(46, 198, 120);
+    color: white;
+}
